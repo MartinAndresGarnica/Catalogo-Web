@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|c:\\users\\maite\\onedrive\\escritorio\\martin\\aplicacion web\\aplicacion web\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|solutionrelative:aplicacion web\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5AA937-1F52-489A-BDA6-D5B082CA7917}|Negocio\\Negocio.csproj|c:\\users\\maite\\onedrive\\escritorio\\martin\\aplicacion web\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AA937-1F52-489A-BDA6-D5B082CA7917}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E5AA937-1F52-489A-BDA6-D5B082CA7917}|Negocio\\Negocio.csproj|c:\\users\\maite\\onedrive\\escritorio\\martin\\aplicacion web\\negocio\\articulosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AA937-1F52-489A-BDA6-D5B082CA7917}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD80ED24-A11B-4447-8224-EB2D32481B0A}|Dominio\\Dominio.csproj|c:\\users\\maite\\onedrive\\escritorio\\martin\\aplicacion web\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD80ED24-A11B-4447-8224-EB2D32481B0A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD80ED24-A11B-4447-8224-EB2D32481B0A}|Dominio\\Dominio.csproj|c:\\users\\maite\\onedrive\\escritorio\\martin\\aplicacion web\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD80ED24-A11B-4447-8224-EB2D32481B0A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticulosNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Negocio\\ArticulosNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ArticulosNegocio.cs",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Negocio\\ArticulosNegocio.cs",
+              "RelativeToolTip": "Negocio\\ArticulosNegocio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:38:18.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:20:32.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Dominio\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:03:55.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\APLICACION WEB\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "APLICACION WEB\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\APLICACION WEB\\WebForm1.aspx",
+              "RelativeToolTip": "APLICACION WEB\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T12:28:30.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "Negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:50:54.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
