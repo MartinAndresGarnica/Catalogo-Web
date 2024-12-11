@@ -21,7 +21,7 @@ namespace Negocio
 
         public AccesoDatos()
         {
-            conexion = new MySqlConnection("Server=localhost, Database=CATALOGO_WEB_DB;Uid=martin;Pwd=123456789");
+            conexion = new MySqlConnection("Server=localhost;Database=CATALOGO_WEB_DB;Uid=martin;Pwd=123456789");
             comando = new MySqlCommand();
         }
 
