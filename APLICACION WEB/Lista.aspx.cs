@@ -13,13 +13,12 @@ namespace APLICACION_WEB
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (!IsPostBack) 
+            if (!IsPostBack)
             {
                 ArticulosNegocio art_negocio = new ArticulosNegocio();
-                var listaArticulos = art_negocio.listar();
-                Session.Add("listaArticulos", listaArticulos);
+                Session.Add("listaArticulos", art_negocio.listar());
 
-                dgvArticulos.DataSource = listaArticulos;
+                dgvArticulos.DataSource = Session["listaArticulos"];
                 dgvArticulos.DataBind();
             }
         }
@@ -27,7 +26,7 @@ namespace APLICACION_WEB
         protected void dgvArticulos_SelectedIndexChanged(object sender, EventArgs e)
         {
             var id = dgvArticulos.SelectedDataKey.Value.ToString();
-            Response.Redirect("FormularioArticulo.aspx?Id" + id);
+            Response.Redirect("FormularioArticulo.aspx?id=" + id);
         }
 
         protected void dgvArticulos_PageIndexChanging(object sender, GridViewPageEventArgs e)

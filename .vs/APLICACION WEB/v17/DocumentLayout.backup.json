@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\",
+  "WorkspaceRootPath": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|c:\\users\\usuario\\desktop\\repo github\\catalogo-web\\aplicacion web\\lista.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|solutionrelative:aplicacion web\\lista.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|c:\\users\\usuario\\desktop\\repo github\\catalogo-web\\aplicacion web\\lista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|solutionrelative:aplicacion web\\lista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD80ED24-A11B-4447-8224-EB2D32481B0A}|Dominio\\Dominio.csproj|c:\\users\\usuario\\desktop\\repo github\\catalogo-web\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD80ED24-A11B-4447-8224-EB2D32481B0A}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|c:\\users\\usuario\\desktop\\repo github\\catalogo-web\\aplicacion web\\formularioarticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\aplicacion web\\formularioarticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|solutionrelative:aplicacion web\\formularioarticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|c:\\users\\usuario\\desktop\\repo github\\catalogo-web\\aplicacion web\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|solutionrelative:aplicacion web\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\aplicacion web\\formularioarticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|solutionrelative:aplicacion web\\formularioarticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\aplicacion web\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{68EEA7FA-CDDB-499F-8BDF-13DA7EA5B26B}|APLICACION WEB\\APLICACION WEB.csproj|solutionrelative:aplicacion web\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{6E5AA937-1F52-489A-BDA6-D5B082CA7917}|Negocio\\Negocio.csproj|c:\\users\\maite\\onedrive\\escritorio\\martin\\aplicacion web\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E5AA937-1F52-489A-BDA6-D5B082CA7917}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lista.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\Lista.aspx.cs",
-              "RelativeDocumentMoniker": "APLICACION WEB\\Lista.aspx.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\Lista.aspx.cs",
-              "RelativeToolTip": "APLICACION WEB\\Lista.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\Negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwCgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T22:12:49.894Z",
+              "WhenOpened": "2024-12-12T19:48:40.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lista.aspx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\Lista.aspx",
-              "RelativeDocumentMoniker": "APLICACION WEB\\Lista.aspx",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\Lista.aspx",
-              "RelativeToolTip": "APLICACION WEB\\Lista.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-10T21:08:27.586Z",
+              "Title": "FormularioArticulo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\APLICACION WEB\\FormularioArticulo.aspx.cs",
+              "RelativeDocumentMoniker": "APLICACION WEB\\FormularioArticulo.aspx.cs",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\APLICACION WEB\\FormularioArticulo.aspx.cs",
+              "RelativeToolTip": "APLICACION WEB\\FormularioArticulo.aspx.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAArwLgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:19:58.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FormularioArticulo.aspx",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\FormularioArticulo.aspx",
+              "DocumentMoniker": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\APLICACION WEB\\FormularioArticulo.aspx",
               "RelativeDocumentMoniker": "APLICACION WEB\\FormularioArticulo.aspx",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\FormularioArticulo.aspx",
-              "RelativeToolTip": "APLICACION WEB\\FormularioArticulo.aspx",
+              "ToolTip": "C:\\Users\\maite\\OneDrive\\Escritorio\\Martin\\APLICACION WEB\\APLICACION WEB\\FormularioArticulo.aspx*",
+              "RelativeToolTip": "APLICACION WEB\\FormularioArticulo.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-12-10T21:28:08.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\Dominio\\Articulo.cs",
-              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\Dominio\\Articulo.cs",
-              "RelativeToolTip": "Dominio\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:24:05.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\Default.aspx.cs",
-              "RelativeDocumentMoniker": "APLICACION WEB\\Default.aspx.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\Default.aspx.cs",
-              "RelativeToolTip": "APLICACION WEB\\Default.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T21:03:46.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Master.Master",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\Master.Master",
-              "RelativeDocumentMoniker": "APLICACION WEB\\Master.Master",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repo Github\\Catalogo-Web\\APLICACION WEB\\Master.Master",
-              "RelativeToolTip": "APLICACION WEB\\Master.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-12-06T21:00:14.334Z",
               "EditorCaption": ""
             }
           ]
